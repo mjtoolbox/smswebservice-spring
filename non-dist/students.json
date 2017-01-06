@@ -1,0 +1,50 @@
+{
+	"id": "1001",
+	"name": "Mike",
+	"age": 17,
+	"gender": "M",
+	"province": "BC"
+}
+{
+	"id": "1002",
+	"name": "Jane",
+	"age": 19,
+	"gender": "F",
+	"province": "ON"
+}
+{
+	"id": "1003",
+	"name": "Susan",
+	"age": 20,
+	"gender": "F",
+	"province": "AB"
+}
+{
+	"id": "1004",
+	"name": "Jan",
+	"age": 23,
+	"gender": "F",
+	"province": "SK"
+}
+{
+	"id": "1005",
+	"name": "John",
+	"age": 22,
+	"gender": "M",
+	"province": "BC"
+}
+{
+	"id": "1006",
+	"name": "Tom",
+	"age": 27,
+	"gender": "M",
+	"province": "ON"
+}
+{
+	"id": "1007",
+	"name": "Debbie",
+	"age": 24,
+	"gender": "F",
+	"province": "AB"
+}
+             
